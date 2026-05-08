@@ -6,7 +6,7 @@ This project focuses on analyzing customer churn behavior using Power BI and bus
 
 The dashboard includes KPI analysis, churn distribution analysis, customer segmentation, contract-based churn analysis, and pricing impact analysis.
 
----
+
 
 # Business Problem
 
